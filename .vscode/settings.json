@@ -1,0 +1,26 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.referencedLibraries": [
+        "lib/*.jar",
+        "lib/**/*.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-legacy-4.0-beta1-javadoc.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-legacy-4.0-beta1-sources.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-legacy-4.0-beta1.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-legacy-core-4.0-beta1-javadoc.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-legacy-core-4.0-beta1-sources.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-legacy-core-4.0-beta1.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-legacy-exception-4.0-beta1-javadoc.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-legacy-exception-4.0-beta1-sources.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-legacy-exception-4.0-beta1.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-transform-4.0-beta1-javadoc.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-transform-4.0-beta1-sources.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-transform-4.0-beta1.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-neuralnet-4.0-beta1-javadoc.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-neuralnet-4.0-beta1-sources.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-neuralnet-4.0-beta1.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-core-4.0-beta1-javadoc.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-core-4.0-beta1-sources.jar",
+        "commons-math4-4.0-beta1-bin/commons-math-4.0-beta1/commons-math4-core-4.0-beta1.jar",
+        "c:\\Users\\maadi\\Downloads\\commons-math3-3.6.1.jar"
+    ]
+}
